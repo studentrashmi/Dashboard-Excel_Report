@@ -1,4 +1,4 @@
-# Dashboard-Excel_Report
+# Shardha Shop Dashboard-Excel_Report
 How This Project is Useful for Data Analytics:
 ---------------------------------------------------------------------
 Market Segmentation: By analyzing customer demographics and purchase patterns, the business can identify key customer segments and tailor marketing strategies accordingly.
